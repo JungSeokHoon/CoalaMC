@@ -1,17 +1,29 @@
-# CoalaMC
-마인크래프트로 C언어를 공부합니다.
+\# 만든 것 설명
 
-# 설치 및 실행
-1. [releases](https://github.com/coalasw/CoalaMC/releases)에서 최신 버전을 설치합니다([wiki](https://github.com/coalasw/CoalaMC/wiki/1.-프로그램-설치) 참조)
-2. code를 clone하거나 다운로드 합니다.
-3. CoalaMC를 실행합니다. Single Player로 들어가서 Creative Mode로 월드를 생성합니다.
-4. Visual C++ 2017로 Examples.sln을 엽니다.
-5. 실행하고자 하는 프로젝트를 시작 프로젝트로 설정합니다.
-6. 프로젝트를 빌드하고 실행합니다.
+저는 토르의 망치, 묠니르를 만들어 보았습니다.
 
-# 프로그램 개발
-프로그램 개발은 [wiki](https://github.com/coalasw/CoalaMC/wiki)를 참고하세요.
+​     
 
-- Example1: 기본 예제, STONE / DIRT 블록으로 격자 모양 만들기
-- Example2: 다양한 블록을 생성하고 놓는 방법을 알 수 있는 예제
-- Example3: 선 그리는 예제
+\#영상 설명
+
+0분 0초 ~ 1분 15초: 작은 망치
+
+​      (sx, sy, sz) = (662, 4, -507)
+
+​                    (ex, ey, ez) = (672, 14, -497)
+
+​     
+
+1분 15초 ~ 2분 10초: 중간 망치
+
+​       (sx, sy, sz) = (630, 4, -495)
+
+​         (ex, ey, ez) = (650, 24, -475)
+
+​     
+
+2분 10초 ~ 3분 17초: 큰 망치
+
+​       (sx, sy, sz) = (714, 4, -446)
+
+​       (ex, ey, ez) = (744, 34, -416)
