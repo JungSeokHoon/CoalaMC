@@ -132,6 +132,7 @@ void accessories(int sx, int sy, int sz)
 
 
 - 파인에플 집 설명
+
 파인에플 집을 만들기 위해서 
 함수를 크게
 
