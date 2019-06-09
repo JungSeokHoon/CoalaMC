@@ -155,4 +155,4 @@ z축을 기준으로 왼쪽(-) 방향으로 계단을 세우는 함수 z_Lstair�
 
 
 창문, 문, 배출구는 accessories 함수로 묶어놨고, 
-locateBlock installDoor y_line 함수들을 활용해서 만들었다. 
+locateBlock, installDoor, y_line 함수들을 활용해서 만들었다. 
